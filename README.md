@@ -4,6 +4,8 @@ This study aims to evaluate the performance of various quantum machine learning 
 
 This repository contains the code and resources for the project described above completed at the Harvard Opthalmology-AI Lab (supervised by Dr. Mohammad Eslami, Dr. Saber Kazeminasab, and Dr. Tobias Elze).
 
+Mohammad Eslami, Gajan Mohan Raj, and Zayan Hasan reviewed the literature, developed the scripts, and prepared the manuscript. Mohammad Eslami and Saber Kazeminasab Hashemabad reviewed the scripts and ensured reproducibility. Mohammad Eslami, Lucia Sobrin, Mengyu Wang, Nazlee Zebardast, Michael Morley, and Tobias Elze provided the necessary resources and funding, supervised the research, and reviewed the manuscript.
+
 Please contact gajanmohanraj@gmail.com or mohammad_eslami@meei.harvard.edu for any questions or concerns.
 
 ### QML Model Overview
